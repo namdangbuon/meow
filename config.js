@@ -11,5 +11,6 @@ const CONFIG = {
     reply: 'deptrai đá banh hay và k bị trẩu<3333',
     mess: 'mik biết mà 🥰. mến nhìu 😘😘',
     messDesc: "vừa tớ đùa í c đừng bùn nha',
-    btnAccept: 'huhu tớ mếu gòi bắt,đền c',
+    btnAccept: 'huhu tớ mếu gòi bắtđền c',
+    mess link:https://www.facebook.com/profile.php?id=100011663650735
   }
